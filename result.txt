@@ -1,4 +1,4 @@
-https://github.com/Basix-95/Daa-assignment
+https://github.com/Ujjaiti/DAA-Assignment
 
 #Test 1 (4 10) 150
 #Test 2 (5 15) 100
